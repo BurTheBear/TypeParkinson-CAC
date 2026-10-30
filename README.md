@@ -1,5 +1,13 @@
 # TypeParkinson
 
+<p>
+  <img src="docs/assets/practice.webp" width="230" alt="Practice screen">
+  <img src="docs/assets/today.webp" width="230" alt="Today screen">
+  <img src="docs/assets/progress.webp" width="230" alt="Progress screen">
+</p>
+
+Built by Atharv Sharma ([@BurTheBear](https://github.com/BurTheBear)) and Pranav Atreya ([@pranav-atreya10](https://github.com/pranav-atreya10)) for the 2026 Congressional App Challenge.
+
 TypeParkinson measures how someone touches the screen, builds a keyboard around it, lets them compare standard and personal typing, and then keeps learning as they type. Around the keyboard it adds daily tracking of hands and voice, speech for when talking is hard, medication timing, and a report to share with a care team. It's an iPhone and iPad app plus a system keyboard for supported apps.
 
 ## What it does
